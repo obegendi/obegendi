@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="obegendi" alt="obegendi" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=obegendi)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Findest](https://www.findest.com/)
 
