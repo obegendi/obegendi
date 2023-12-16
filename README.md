@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **AI-powered search engine**
 
-- 🌱 I’m currently learning **OpenNLP**
-
 - 💬 Ask me about **software architecture, distributed systems, programming languages, OOP**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/orhun-begendi/](https://www.linkedin.com/in/orhun-begendi/)
