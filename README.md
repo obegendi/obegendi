@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obegendi" alt="obegendi" /></a> </p>
 
-- 🔭 I’m currently working on **AI-powered search engine**
+- 🔭 I’m currently working on **IGOR AI**
 
 - 💬 Ask me about **software architecture, distributed systems, programming languages, OOP**
 
